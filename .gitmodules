@@ -1,0 +1,6 @@
+[submodule "publi"]
+	path = publi
+	url = https://github.com/guadalam/guadalam.github.io
+[submodule "public"]
+	path = public
+	url = https://github.com/guadalam/guadalam.github.io
